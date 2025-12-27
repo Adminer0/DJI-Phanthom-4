@@ -26,9 +26,7 @@ Through this reverse engineering process, I gained a much deeper understanding o
 
 
 
-  
-
-## 12/24/2025 - cool cover art  
+  ## 12/24/2025 - cool cover art  
 
 _Time spent: 0.1h_  
 
@@ -44,18 +42,16 @@ _Time spent: 8.5h_
 Finallyyyyyyyy made two integral parts of drone frame its **Bottom Frame** and **Landing gear**, I really felt like what i am doing in my life, i literally rethinked my career preferences but yesssss i made this design and yes i will opensource on my github. 
 
 ### **bottom frame**
-![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Mjk1NDUsInB1ciI6ImJsb2JfaWQifX0=--b92dec93d62c676d16681a8c45cbbe269e9fb12b/image.png)
-![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Mjk1NDYsInB1ciI6ImJsb2JfaWQifX0=--e9597acff1b470f876e313ae54937b54f821c4f0/image.png)
-![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Mjk1NDksInB1ciI6ImJsb2JfaWQifX0=--f702aac139b10f6b9ff07011e1c3516091994f23/image.png)
-![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Mjk1NTAsInB1ciI6ImJsb2JfaWQifX0=--4d9ce697abe999646c3911825bd9825b799fb8ef/image.png)
+<img width="455" height="477" alt="image" src="https://github.com/user-attachments/assets/2f157f69-923d-4d82-8fcf-a968a7e69523" />
+<img width="480" height="477" alt="image" src="https://github.com/user-attachments/assets/68a936df-174b-44bc-b594-415b7e6613c1" />
+<img width="1515" height="452" alt="image" src="https://github.com/user-attachments/assets/6b889930-31f9-4c77-b28c-141a621d8bba" />
+<img width="571" height="437" alt="6555231208" src="https://github.com/user-attachments/assets/9cbe0f67-7691-4a89-b452-b641091f125c" />
+
 
 ### **Landing Gear**
-![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Mjk1NTIsInB1ciI6ImJsb2JfaWQifX0=--d2382cc8ae19acf9869e267642da255050746321/image.png)
-![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Mjk1NTMsInB1ciI6ImJsb2JfaWQifX0=--49ec3a04eac0998303fff8f2e4cd73bb212ff641/image.png)
-![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Mjk1NTQsInB1ciI6ImJsb2JfaWQifX0=--f2a8899c406d0179a9c7cbe28b7b58d9d80b8a61/image.png)
-
-
-
+<img width="646" height="477" alt="image" src="https://github.com/user-attachments/assets/88c14c23-d597-4584-903e-bb7113c047ae" />
+<img width="477" height="477" alt="image" src="https://github.com/user-attachments/assets/bed05742-1ca5-43d8-8548-59bb096d77f5" />
+<img width="422" height="477" alt="image" src="https://github.com/user-attachments/assets/37c5a860-3003-473a-a38f-ffd765488682" />
   
 
 ## 12/26/2025 12 AM - I FORGOT TO TELL IT'S COMPATIBLE WITH A2212 BLDC MOTOR  
@@ -65,11 +61,10 @@ _Time spent: 0.1h_
 ### **I FORGOT TO TELL IT'S COMPATIBLE WITH A2212 BLDC MOTOR**
 I ensured that the mounting holes match the standard A2212 bolt spacing and that there is enough clearance for motor rotation and wiring. This compatibility makes the design more versatile and reusable for different projects, especially in robotics and drone-related applications.
 
-![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Mjk1NTcsInB1ciI6ImJsb2JfaWQifX0=--5632a77948f527a325a4b50a0a5a1dbaf35f5d35/image.png)
-![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Mjk1NTgsInB1ciI6ImJsb2JfaWQifX0=--098ec9fada7dfd3eced3da1c55043d4fe58030a8/image.png)
-![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Mjk1NTksInB1ciI6ImJsb2JfaWQifX0=--a0996e57ec32502cd0e9f8d21a8b0fe4bf2d57cf/image.png)
+<img width="495" height="477" alt="image" src="https://github.com/user-attachments/assets/e615e836-2884-4f32-9eb0-c62ce39921e9" />
+<img width="861" height="477" alt="image" src="https://github.com/user-attachments/assets/a07d7683-9a7d-484f-afb0-feb51d4c222d" />
+<img width="875" height="477" alt="image" src="https://github.com/user-attachments/assets/eb72cb3f-71c1-4252-9197-ab625dce8355" />
 
-  
 
 ## 12/26/2025 2 AM - Completed replicating Frame  
 

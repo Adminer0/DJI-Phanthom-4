@@ -18,12 +18,10 @@ Another important aspect I observed was aerodynamics and aesthetics working toge
 
 Through this reverse engineering process, I gained a much deeper understanding of consumer drone design. This research will directly influence my own Phantom 4–inspired replica, especially in terms of frame geometry, component layout, and material selection. Overall, this step helped me move from simply building a drone to actually thinking like a drone designer and engineer.
 
-![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Mjg5MTksInB1ciI6ImJsb2JfaWQifX0=--fd6ce6b33717bb1c295b3a7a9634611407bd4576/image.png)
+<img width="558" height="477" alt="image" src="https://github.com/user-attachments/assets/06a81985-0d65-4080-9d3e-4859f54c86c3" /><img width="666" height="477" alt="image" src="https://github.com/user-attachments/assets/c1f6b737-c3f4-443c-8912-e49fa770688f" />
+<img width="884" height="477" alt="image" src="https://github.com/user-attachments/assets/998675c8-52bf-4fdb-b068-20c23783b76b" />
+<img width="1176" height="477" alt="image" src="https://github.com/user-attachments/assets/059f4927-6159-4827-a517-8b2df9b82126" />
 
-![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Mjg5MjAsInB1ciI6ImJsb2JfaWQifX0=--ca4d67f81a7df9ecb86bb66a2c230412313c7388/image.png)
-![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Mjg5MjEsInB1ciI6ImJsb2JfaWQifX0=--650b71838abe0865b1485e21b205d54342c2524f/image.png)
-
-![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Mjg5MjIsInB1ciI6ImJsb2JfaWQifX0=--d1156d9d491e4eb3e990bf25ac64370ffa435166/image.png)
 
 
 

@@ -5,10 +5,7 @@
 
 
 # DJI-Phanthom-4-clone
-This project is a DJI Phantom 4–inspired replica drone, designed to closely match the original’s iconic shape and layout while being built using DIY electronics and custom parts. The replica focuses on recreating the Phantom 4’s clean, integrated design, stable flight characteristics, and practical layout for learning and experimentation.
-
-The frame follows the Phantom-style monocoque body with raised motor arms, providing good balance, strength, and vibration isolation. It is intended for educational use, prototyping, and hands-on learning in drone electronics, flight controllers, and navigation systems. While it visually resembles the DJI Phantom 4, all internal components, firmware, and construction are independently designed and assemble
-
+This project is a DJI Phantom 4 replica drone, designed to closely match the original’s iconic shape and layout while being built using DIY electronics and custom parts. The replica focuses on recreating the Phantom 4’s clean, minimalistic design and stable flight .
 
 ## Authors
 
